@@ -36,7 +36,7 @@ ANswers- assignment operators uses only one = while the equal to operator uses =
 Answers: WHenever we use to compare to number to come up with a decision, for example
 if the income is greater than 10000$ per month, he is a manager
 IF(income>10000):
- print(he is a manager)
+ print('he is a manager')
 
 
 8. Recognize the following three blocks in this code:
@@ -49,10 +49,10 @@ if spam == 10:
         print('ham')
     print('spam')
 print('spam')
-ANswers-
+ANswers- spam
 
 9. Create a programme that prints. If 1 is stored in spam, prints Hello; if 2 is stored in spam, prints Howdy; and if 3 is stored in spam, prints Salutations! if there's something else in spam.
-
+Answers- 
 10.If your programme is stuck in an endless loop, what keys can you press?
 
 11. How can you tell the difference between break and continue?
