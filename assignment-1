@@ -1,0 +1,40 @@
+1. What are the differences between operators and values in the following?
+*
+&#39;hello&#39;
+-87.8
+-
+/
++
+6
+Answer - 
+
+2. What is the difference between string and variable?
+spam
+&#39;spam&#39;
+Answer - String is the type of the variable and variable stores data of any type.
+
+3. Describe three different data forms.
+Answer - numeric, string and boolean.
+
+4. What makes up an expression? What are the functions of all expressions?
+Answer- values and operators make up an expression. the function of expression is to evaluate the values and operators used in expression.
+
+5. In this chapter, assignment statements such as spam = 10 were added. What&#39;s the
+difference between a declaration and an expression?
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+7. What should the values of the following two terms be?
+
+&#39;spam&#39; + &#39;spamspam&#39;
+&#39;spam&#39; * 3
+
+8. Why is it that eggs is a true variable name but 100 is not?
+
+9. Which of the following three functions may be used to convert a value to an integer, a
+floating-point number, or a string?
+
+10. What is the error caused by this expression? What would you do about it?
+
+&#39;I have eaten &#39; + 99 + &#39; burritos.&#39;
