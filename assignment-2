@@ -1,0 +1,68 @@
+1. What are the Boolean data type's two values? How do you go about writing them?
+answer- true and false. bool()
+
+
+2. What are the three different types of Boolean operators?
+Answer- AND OR and NOT.
+
+3. Make a list of each Boolean operator's truth tables (i.e. every possible combination of Boolean values for the operator and what it evaluate ).
+Answer- TRUE AND TRUE - TRUE, TRUE AND FALSE - FALSE, FALSE AND TRUE - FALSE, FALSE AND FALSE- FALSE.
+        TRUE OR TRUE - TRUE, TRUE OR FALSE - TRUE, FALSE OR TRUE - TRUE, FALSE OR FALSE- FALSE.
+        TRUE NOT FALSE, FALSE NOT TRUE.
+
+
+4. What are the values of the following expressions?
+Answer- 
+(5 > 4) and (3 == 5) - FALSE
+not (5 > 4)- FALSE
+(5 > 4) or (3 == 5) - TRUE
+not ((5 > 4) or (3 == 5)) - FALSE
+(True and True) and (True == False) -FALSE
+(not False) or (not True) - TRUE
+
+5. What are the six different types of reference operators?
+Answers - 
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+Identity operators
+Bitwise operators
+
+6. How do you tell the difference between the equal to and assignment operators?
+ANswers- assignment operators uses only one = while the equal to operator uses == for comparsion.
+
+7. Describe a condition and when you would use one.
+Answers: WHenever we use to compare to number to come up with a decision, for example
+if the income is greater than 10000$ per month, he is a manager
+IF(income>10000):
+ print(he is a manager)
+
+
+8. Recognize the following three blocks in this code:
+spam = 0
+if spam == 10:
+    print('eggs')
+    if spam > 5:
+        print('bacon')
+    else:
+        print('ham')
+    print('spam')
+print('spam')
+ANswers-
+
+9. Create a programme that prints. If 1 is stored in spam, prints Hello; if 2 is stored in spam, prints Howdy; and if 3 is stored in spam, prints Salutations! if there's something else in spam.
+
+10.If your programme is stuck in an endless loop, what keys can you press?
+
+11. How can you tell the difference between break and continue?
+
+
+
+12. In a for loop, what is the difference between range(10), range(0, 10), and range(0, 10, 1)?
+
+13. Using a for loop, write a short programme that prints the numbers 1 to 10 Then, using a while loop, create an identical programme that prints the numbers 1 to 10.
+
+
+
+14. If you had a bacon() function within a spam module, what would you call it after importing spam?
