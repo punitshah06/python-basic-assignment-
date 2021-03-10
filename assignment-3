@@ -1,0 +1,27 @@
+1. What are the benefits of including roles in the programmes?
+
+2. When does the code in a function run: when it's specified or when it's called?
+
+3. What statement causes a feature to be created?
+
+4. What is the distinction between a function and a call to a function?
+
+5. In a Python application, how many global scopes are there? How many local scopes are there?
+
+6. When a function call returns, what happens to variables in the local scope?
+
+7. What is the concept of a return value? Is it possible to have a return value in an expression?
+
+8. What is the return value of a call to a function that does not have a return statement?
+
+9. How do you make a function variable refer to the global variable?
+
+10. What data form does None belong to?
+
+11. What does the sentence import areallyourpetsnamederic do?
+
+12. If you had a bacon() feature in a spam module, what would you call it after importing spam?
+
+13. What can you do to save a programme from crashing if it encounters an error?
+
+14. What is the purpose of the try clause? What is the purpose of the except clause?
